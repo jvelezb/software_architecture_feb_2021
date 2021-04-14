@@ -1,10 +1,5 @@
 package services;
 
-/**
- * Count the number of original services is called
- * @author crocode
- *
- */
 public class ProxyCount implements ServiceInterface {
 
 	/**

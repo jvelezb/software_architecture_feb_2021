@@ -1,10 +1,6 @@
 package services;
 
-/**
- * Service executed the checking number is even or odd
- * @author crocode
- *
- */
+
 public class OriginalService implements ServiceInterface {
 
 	@Override

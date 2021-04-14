@@ -13,11 +13,7 @@ import services.ProxyPassword;
 import services.ServiceInterface;
 import clients.Client;
 
-/**
- * Test Client with service1 : Check a number is a even or odd
- * @author crocode
- *
- */
+
 public class ClientService1Test {
 
 	/**

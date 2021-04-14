@@ -1,10 +1,6 @@
 package services;
 
-/**
- * Proxy require the corrected password to executed original services.
- * @author crocode
- *
- */
+
 public class ProxyPassword implements ServiceInterface {
 
 	/**

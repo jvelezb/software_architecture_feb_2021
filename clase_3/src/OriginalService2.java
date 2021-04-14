@@ -1,10 +1,6 @@
 package services;
 
-/**
- * Service executed the checking a number is a positive or negative number
- * @author crocode
- *
- */
+
 public class OriginalService2 implements ServiceInterface {
 
 	@Override
